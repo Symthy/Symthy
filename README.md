@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symthy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/Symthy" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.67&b=3.36&i=3.58&b1=%23020E27&b2=%233190e3&i1=%23030E21&i2=%2390b2c1&l=ja" width="400" ></a>  
-Last Updated on 1/3/2023, 1:38:51 AM
+<a href="https://lapras.com/public/Symthy" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.67&b=3.36&i=3.56&b1=%23020E27&b2=%233190e3&i1=%23030E21&i2=%2390b2c1&l=ja" width="400" ></a>  
+Last Updated on 1/4/2023, 1:39:46 AM
 <!--END_SECTION:lapras-card-->
 
 [LAPRAS Portfolio Page](https://lapras.com/public/Symthy)
