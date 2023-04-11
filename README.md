@@ -6,7 +6,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/Symthy" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.68&b=3.36&i=3.56&b1=%23020E27&b2=%233190e3&i1=%23030E21&i2=%2390b2c1&l=ja" width="400" ></a>  
-Last Updated on 4/10/2023, 1:25:00 AM
+Last Updated on 4/11/2023, 1:26:09 AM
 <!--END_SECTION:lapras-card-->
 
 [LAPRAS Portfolio Page](https://lapras.com/public/Symthy)
