@@ -6,7 +6,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/Symthy" target="_blank" rel="noopener noreferrer"><img alt="SymthyのLAPRASでのスコアは次の通りです: エンジニアリング: 3.7 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.56 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.7&b=3.43&i=3.56&b1=%23020E27&b2=%233190e3&i1=%23030E21&i2=%2390b2c1&l=ja" width="400" ></a>  
-Last Updated on 7/29/2023, 1:23:54 AM</p>
+Last Updated on 7/30/2023, 1:33:39 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [LAPRAS Portfolio Page](https://lapras.com/public/Symthy)
