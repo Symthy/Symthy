@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Symthy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/Symthy" target="_blank" rel="noopener noreferrer"><img alt="SymthyのLAPRASでのスコアは次の通りです: エンジニアリング: 3.85 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.56 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.85&b=3.43&i=3.56&b1=%23020E27&b2=%233190e3&i1=%23030E21&i2=%2390b2c1&l=ja" width="400" ></a>  
-Last Updated on 8/16/2023, 1:12:12 AM</p>
+<p ><a href="https://lapras.com/public/Symthy" target="_blank" rel="noopener noreferrer"><img alt="SymthyのLAPRASでのスコアは次の通りです: エンジニアリング: 3.75 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.56 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.75&b=3.43&i=3.56&b1=%23020E27&b2=%233190e3&i1=%23030E21&i2=%2390b2c1&l=ja" width="400" ></a>  
+Last Updated on 8/17/2023, 1:11:11 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [LAPRAS Portfolio Page](https://lapras.com/public/Symthy)
